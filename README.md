@@ -1,7 +1,5 @@
 # 2023년 2학기 딥러닝 기말 프로젝트
 
-# 🌳 Tree Disease Detection with AI
-
 본 프로젝트는 **인공지능 기반 수목 질병 진단**을 목표로 하며,  
 딥러닝과 전이학습(Transfer Learning)을 활용하여 나무 질병을 조기 탐지하고 관리하는데 도움을 주고자 합니다.
 
@@ -17,7 +15,6 @@
 발표 자료 (완료!) : [https://www.miricanvas.com/v/12pa3cl](https://www.miricanvas.com/v/12q5093) \
 
 
----
 
 ## 📌 Introduction
 ### 왜 나무 질병을 연구해야 하는가?
@@ -33,7 +30,6 @@
    - 임업 산업 적용 시 나무 생산성 향상 및 임산물 품질 개선  
    - 예: 감염된 나무를 신속히 식별·처리하여 **수확량 최적화**  
 
----
 
 ## 📂 추가 데이터셋: PlantVillage
 
@@ -45,7 +41,6 @@
 1. [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) 다운로드  
 2. 압축 해제 후 `PlantVillage/` 폴더를 `data/` 디렉토리에 위치  
 
----
 
 ## 🚀 How To Use
 
@@ -76,7 +71,6 @@
 - `use_plantvillage = True` → `checkpoint/finetunePlantVillage/VisionTransformer_Nfold.pt` 불러오기  
 - Test Set 평가 및 Confusion Matrix 저장  
 
----
 
 ## 🖥 실행 방법
 
