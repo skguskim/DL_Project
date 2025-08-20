@@ -1,6 +1,6 @@
 # 🌳 DL_Project: Tree Disease Detection with AI
 
-2025년 1학기 서울과학기술대학교 인공지능응용학과 **딥러닝** 과목의 프로젝트입니다.
+2023년 2학기 서울과학기술대학교 인공지능응용학과 **딥러닝** 과목의 프로젝트입니다.
 본 프로젝트는 **인공지능 기반 수목 질병 진단**을 목표로 하며,  
 딥러닝과 전이학습(Transfer Learning)을 활용하여 나무 질병을 조기 탐지하고 관리하는데 도움을 주고자 합니다.
 
@@ -13,7 +13,7 @@
 
 ![](./data.jpg)
 
-발표 자료 (완료!) : [https://www.miricanvas.com/v/12pa3cl](https://www.miricanvas.com/v/12q5093) 
+발표 자료 : [https://www.miricanvas.com/v/12pa3cl](https://www.miricanvas.com/v/12q5093) 
 
 
 
