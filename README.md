@@ -1,6 +1,7 @@
 # 🌳 DL_Project: Tree Disease Detection with AI
 
 2023년 2학기 서울과학기술대학교 인공지능응용학과 **딥러닝** 과목의 프로젝트입니다.
+
 본 프로젝트는 **인공지능 기반 수목 질병 진단**을 목표로 하며,  
 딥러닝과 전이학습(Transfer Learning)을 활용하여 나무 질병을 조기 탐지하고 관리하는데 도움을 주고자 합니다.
 
@@ -78,18 +79,21 @@
 ### 1. 직접 실행
 ```bash
 python main.py
+```
 
-main.py 하단의
+### main.py 하단 수정
 
-```bash
+```python
+
 if __name__=="__main__":
     # 실행할 함수 주석 해제 후 실행
     main_finetune()
+```
+### 2. 모듈로 실행
 
-### 모듈로 실행
-```bash
+```python
 from main import main_load_finetunedmodel
 
 main_load_finetunedmodel(use_plantvillage=True)
-
+```
 
