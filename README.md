@@ -77,11 +77,7 @@
 ## 🖥 실행 방법
 
 ### 1. 직접 실행
-```bash
-python main.py
-```
-
-### main.py 하단 수정
+- main.py 하단 수정
 
 ```python
 
@@ -89,6 +85,13 @@ if __name__=="__main__":
     # 실행할 함수 주석 해제 후 실행
     main_finetune()
 ```
+
+- 실행
+  
+```bash
+python main.py
+```
+
 ### 2. 모듈로 실행
 
 ```python
