@@ -1,4 +1,10 @@
 # 2023년 2학기 딥러닝 기말 프로젝트
+
+# 🌳 Tree Disease Detection with AI
+
+본 프로젝트는 **인공지능 기반 수목 질병 진단**을 목표로 하며,  
+딥러닝과 전이학습(Transfer Learning)을 활용하여 나무 질병을 조기 탐지하고 관리하는데 도움을 주고자 합니다.
+
 ## ! 데이터셋은 리포지토리에 포함되지 않음 !
 데이터는 eclass 공지사항에서 별도로 다운로드, train과 test 모두 data 디렉토리에 복사하여 주세요\
 (data/train, data/test가 되도록 구성)\
@@ -10,10 +16,6 @@
 
 발표 자료 (완료!) : [https://www.miricanvas.com/v/12pa3cl](https://www.miricanvas.com/v/12q5093) \
 
-# 🌳 Tree Disease Detection with AI
-
-본 프로젝트는 **인공지능 기반 수목 질병 진단**을 목표로 하며,  
-딥러닝과 전이학습(Transfer Learning)을 활용하여 나무 질병을 조기 탐지하고 관리하는데 도움을 주고자 합니다.
 
 ---
 
